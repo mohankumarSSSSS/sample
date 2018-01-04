@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>t3</title>
+</head>
+<body>
+
+<body bgcolor="red">
+<h1 align="center">MY HOBBIES</h1>
+<ul type="disk">
+<li>READING BOOKS</li>
+<li>WRITING NOVEL</li>
+<li>LISTENING MUSIC</li>
+</ul>
+<h1 align ="center">CURRICULUM ACTIVITIES</h1>
+<ol start="value">
+<li>NCC memgber</li>
+<li>VOLLEY BALL PLAYER in sports<li>
+<h1 align ="center">EXTRA CURRICULUM</h1>
+<ol start="value">
+<li>project presentation in CIT</li>
+<li>paper presentation in MIT</LI>
+</ol>
+<h1 align ="center">AREA OF INTEREST</h1>
+<p>ADVANCED DBMS</P>
+<a href="3.htm">Click Here</a>
+</body>
+</html>
